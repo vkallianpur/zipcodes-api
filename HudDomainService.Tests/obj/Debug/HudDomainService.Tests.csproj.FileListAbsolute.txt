@@ -1,0 +1,17 @@
+c:\users\vkallianpur\source\repos\HudWebApi\HudDomainService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\vkallianpur\source\repos\HudWebApi\HudDomainService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\vkallianpur\source\repos\HudWebApi\HudDomainService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\vkallianpur\source\repos\HudWebApi\HudDomainService.Tests\bin\Debug\HudDomainService.Tests.dll
+c:\users\vkallianpur\source\repos\HudWebApi\HudDomainService.Tests\bin\Debug\HudDomainService.Tests.pdb
+c:\users\vkallianpur\source\repos\HudWebApi\HudDomainService.Tests\bin\Debug\HudDomainService.dll
+c:\users\vkallianpur\source\repos\HudWebApi\HudDomainService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\vkallianpur\source\repos\HudWebApi\HudDomainService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\vkallianpur\source\repos\HudWebApi\HudDomainService.Tests\bin\Debug\HudDomainService.pdb
+c:\users\vkallianpur\source\repos\HudWebApi\HudDomainService.Tests\bin\Debug\HudDomainService.dll.config
+c:\users\vkallianpur\source\repos\HudWebApi\HudDomainService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\vkallianpur\source\repos\HudWebApi\HudDomainService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\vkallianpur\source\repos\HudWebApi\HudDomainService.Tests\obj\Debug\HudDomainService.Tests.csprojAssemblyReference.cache
+c:\users\vkallianpur\source\repos\HudWebApi\HudDomainService.Tests\obj\Debug\HudDomainService.Tests.csproj.CoreCompileInputs.cache
+c:\users\vkallianpur\source\repos\HudWebApi\HudDomainService.Tests\obj\Debug\HudDomainService.Tests.csproj.CopyComplete
+c:\users\vkallianpur\source\repos\HudWebApi\HudDomainService.Tests\obj\Debug\HudDomainService.Tests.dll
+c:\users\vkallianpur\source\repos\HudWebApi\HudDomainService.Tests\obj\Debug\HudDomainService.Tests.pdb
